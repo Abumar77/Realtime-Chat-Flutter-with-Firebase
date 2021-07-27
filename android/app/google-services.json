@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814681445105",
+    "project_id": "flash-chat-d5376",
+    "storage_bucket": "flash-chat-d5376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814681445105:android:95022df8b51c409b674f50",
+        "android_client_info": {
+          "package_name": "co.umar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814681445105-qro0jahvp0honk4t99jsj9dt7ounhvli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlygHn4hUPbDjLAPfC-fCn1MqFSHHCB7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814681445105-qro0jahvp0honk4t99jsj9dt7ounhvli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
